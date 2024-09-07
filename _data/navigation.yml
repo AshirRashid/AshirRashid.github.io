@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /files/resume(21-june-2024).pdf
     
-  # - title: "Personal Projects"
-  #   url: /portfolio/
+  - title: "Personal Projects"
+    url: /portfolio/
 
   # - title: "Publications"
   #   url: /publications/
