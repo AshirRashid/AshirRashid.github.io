@@ -18,4 +18,4 @@ Code for some animations is available here: [GitHub](https://github.com/AshirRas
 
 Technologies: Python, Bash
 
-Concepts/Algorithms: Manim
+Concepts/Algorithms: Manim, Animation, Shell Scripting
