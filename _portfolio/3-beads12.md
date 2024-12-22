@@ -5,7 +5,7 @@ excerpt: "A Digital Board Game with an AI opponent<br/>"
 collection: portfolio
 ---
 
-A digital implementation of the board game Beads 12. There is an option for two players to play against each other, or for a single player to play against an AI opponent capable of adapting strategies during gameplay.
+A digital implementation of the board game Beads 12. There is an option for two players to play against each other, or for a single player to play against an AI opponent capable of adapting strategies during game-play.
 
 While developing this AI agent, I experimented with various techniques:
 1. Reinforcement Learning: Q-learning - with and without neural networks
