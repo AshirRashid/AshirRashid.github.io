@@ -15,7 +15,10 @@ For the final deployment of the game, I chose the Minimax approach since the Min
 
 The game is playable online here: [Beads 12](https://ashir-r.itch.io/beads-12)
 
+**Technologies:**  
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Python</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">GDScript</span>
 
-Technologies: Python, GDScript
-
-Concepts/Algorithms: Reinforcement Learning, Decision Trees
+**Concepts / Algorithms:**  
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Reinforcement Learning</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Decision Trees</span>

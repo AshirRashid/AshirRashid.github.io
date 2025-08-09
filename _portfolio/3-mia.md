@@ -39,7 +39,19 @@ After ensuring fair evaluation, which some of these papers failed to do, these m
 
 Currently, I'm analysing how these techniques perform on compressed models. The code will be made public when this project concludes.
 
+**Technologies:**  
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Python</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Tensorflow</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">NLTK</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">spaCy</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Hugging Face Transformers</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">PyTorch</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">NumPy</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Pandas</span>
 
-Technologies: Python, Tensorflow, NLTK, spaCy, Hugging Face Transformers, PyTorch, NumPy, Pandas
-
-Concepts/Algorithms: ML, LLM, ML security, ML privacy, Data Membership Inference
+**Concepts / Algorithms:**  
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">ML</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">LLM</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">ML security</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">ML privacy</span>
+<span style="background:#f2f2f2; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Data Membership Inference</span>
