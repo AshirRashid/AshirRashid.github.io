@@ -4,7 +4,7 @@ excerpt: "Reconstructs hidden administrative workflows from unstructured communi
 collection: portfolio
 ---
 
-[![View Code on GitHub](https://img.shields.io/badge/View%20Code-GitHub-black?logo=github)](https://github.com/AshirRashid/agentic-process-discovery)
+[![View Code on GitHub](https://img.shields.io/badge/View%20Code-GitHub-black?logo=github)](https://github.com/AshirRashid/process_discovery)
 
 
 ## Architecture Diagram
