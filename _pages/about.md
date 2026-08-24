@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello there, I'm Ashir!"
-excerpt: "About me"
+excerpt: "Ashir Rashid — Computer Science graduate (NYU Abu Dhabi) working across applied ML, data engineering, and LLM research. Published in medical AI (IEEE IJCNN 2026)."
 author_profile: true
 redirect_from: 
   - /about/

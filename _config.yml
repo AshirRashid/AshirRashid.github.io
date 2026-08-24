@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ashir's Homepage"
 title_separator          : "-"
 name                     : &name "Ashir Rashid"
-description              : &description "personal description"
+description              : &description "Ashir Rashid — Computer Science graduate (NYU Abu Dhabi) working across applied ML, data engineering, and LLM research. Published in medical AI (IEEE IJCNN 2026)."
 url                      : https://ashirrashid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AshirRashid/AshirRashid.github.io"
@@ -24,9 +24,9 @@ author:
   name             : "Ashir Rashid"
   avatar           : "profile_pic_white_bg.png"
   pronouns         : # example: "she/her"  
-  bio              : "Neural Network Quantization"
+  bio              : "ML Engineering & Applied AI Research"
   location         : "Abu Dhabi, UAE"
-  employer         : "NYU Abu Dhabi"
+  employer         : #
   uri              : # URL
   email            : "ar7789@nyu.edu" 
 
