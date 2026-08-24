@@ -11,9 +11,11 @@ redirect_from:
 
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I'm an undergraduate student studying Computer Science & Applied Mathematics at NYU Abu Dhabi.
+👨🏻‍💻 I'm a Computer Science & Applied Mathematics graduate of NYU Abu Dhabi (May 2026).
 
 🔬 My interests are Data Analysis, Data Engineering, Data Science, Data Modeling, Cloud Infrastructure, Large Language Models, Retrieval-Augmented Generation, Quantization, Neural Architecture Search, Network Security.
+
+📄 Published researcher in medical AI: our paper on MS lesion segmentation evaluation was accepted at [IEEE IJCNN 2026](/publication/2026-03-20-paper-title-number-1).
 
 💻 Check out my Personal Projects [here](https://ashirrashid.github.io/portfolio/).
 
@@ -23,7 +25,7 @@ redirect_from:
 
 ## 👨🏻‍🔬 Professional Experience
 
-Currently, I am a Data Science Intern at [GamaLearn](https://gamalearn.com/), focused on designing, experimenting with, and deploying data-driven solutions tailored to business needs.
+I was most recently a **Data Scientist** at [GamaLearn](https://gamalearn.com/) (May 2025 - May 2026), designing, experimenting with, and deploying data-driven solutions tailored to business needs.
 
 My prior work experience:
 - **Deep Learning Researcher** at NYU Abu Dhabi's [eBrain lab](https://ebrain4everyone.com/) under the mentorship of Prof. Muhammad Shafique working on a mixed precision Quantization framework. I created end-to-end data pipelines to enable efficient experimentation and clear interpretation of results. I used this pipeline to optimize frameworks for Quantizing and Pruning machine learning models.
