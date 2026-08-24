@@ -12,7 +12,7 @@ Existing matching methods make this harder to see. They enforce strict 1:1 corre
 
 ## What was built
 
-MSEval: a six-stage lesion-centric evaluation pipeline with N:M lesion matching, size-stratified reporting, and per-lesion metrics. Synthetic MRI data (FLAIR, T1, T2) was generated for threshold hyperparameter tuning. Custom loss functions were included as demonstration cases to show how MSEval reveals differences between training objectives that aggregate Dice scores hide.
+MSEval: a six-stage lesion-centric evaluation pipeline with N:M lesion matching, size-stratified reporting, and per-lesion metrics. Synthetic MRI data (FLAIR, T1, T2) was generated for threshold hyperparameter tuning. Custom loss functions (Generalized Surface Loss, ContourSoftDice variants, targeting boundary/region weaknesses and annotator disagreement) were included as demonstration cases, improving balanced accuracy by ~7% and showing how MSEval reveals differences between training objectives that aggregate Dice scores hide.
 
 **Stage 1.** Binary masks decomposed into discrete lesion instances via 3D connected component analysis.
 
