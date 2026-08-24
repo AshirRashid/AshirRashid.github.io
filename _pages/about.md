@@ -13,7 +13,7 @@ redirect_from:
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
 👨🏻‍💻 I'm a Computer Science & Applied Mathematics graduate of NYU Abu Dhabi (May 2026).
 
-🔬 My interests are Data Analysis, Data Engineering, Data Science, Data Modeling, Cloud Infrastructure, Large Language Models, Retrieval-Augmented Generation, Quantization, Neural Architecture Search, Network Security.
+🎯 I work across two lanes: **Applied AI / ML systems / FDE** — RAG pipelines, agentic workflows, Azure ML deployment, and full-stack delivery — and **AI evaluation, privacy & efficiency** — model evaluation frameworks, LLM quantization, and membership-inference privacy research.
 
 📄 Published researcher in medical AI: our paper on MS lesion segmentation evaluation was accepted at [IEEE IJCNN 2026](/publication/2026-03-20-paper-title-number-1).
 
