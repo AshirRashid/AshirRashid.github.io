@@ -24,13 +24,13 @@ MSEval: a six-stage lesion-centric evaluation pipeline with N:M lesion matching,
 
 **Stage 5.** Per-pair: lesion-specific Dice, HD95, and correspondence type. Scan-level: precision, recall, F1, and FP load.
 
-**Stage 6.** Size bins: Very Small (0–10 voxels), Small (10–100), Medium (100–400), Large (>400). Performance reported per bin.
+**Stage 6.** Size bins: Very Small (0 to 10 voxels), Small (10 to 100), Medium (100 to 400), Large (>400). Performance reported per bin.
 
 ## What it shows
 
 Six models benchmarked on MSSEG-1 and MSLesSeg (T2-FLAIR, real clinical data): nnU-Net, SegResNet, SwinUNETR, LST-AI, SAMSEG, mindGlide.
 
-Best F1 for very small lesions: 0.34. For large lesions: 0.92–1.00. Models sitting at 53–58% aggregate Dice still left roughly 30% of GT lesion load as false negatives. The aggregate score says almost nothing about small-lesion detection.
+Best F1 for very small lesions: 0.34. For large lesions: 0.92 to 1.00. Models sitting at 53 to 58% aggregate Dice still left roughly 30% of GT lesion load as false negatives. The aggregate score says almost nothing about small-lesion detection.
 
 N:M matching also exposed failures that don't show up anywhere in voxel-wise reporting. One nnU-Net cluster had 4 GT lesions mapped to 12 predicted components with an aggregated Dice of 0.00.
 

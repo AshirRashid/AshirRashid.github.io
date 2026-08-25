@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello there, I'm Ashir!"
-excerpt: "Ashir Rashid — Computer Science graduate (NYU Abu Dhabi) working across applied ML, data engineering, and LLM research. Published in medical AI (IEEE IJCNN 2026)."
+excerpt: "Ashir Rashid, Computer Science graduate (NYU Abu Dhabi) working across applied ML, data engineering, and LLM research. Published in medical AI (IEEE IJCNN 2026)."
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
 👨🏻‍💻 I'm a Computer Science & Applied Mathematics graduate of NYU Abu Dhabi (May 2026).
 
-🎯 I work across two lanes: **Applied AI / ML systems / FDE** — RAG pipelines, agentic workflows, Azure ML deployment, and full-stack delivery — and **AI evaluation, privacy & efficiency** — model evaluation frameworks, LLM quantization, and membership-inference privacy research.
+🎯 I work across two lanes. **Applied AI / ML systems / FDE** (RAG pipelines, agentic workflows, Azure ML deployment, and full-stack delivery), and **AI evaluation, privacy & efficiency** (model evaluation frameworks, LLM quantization, and membership-inference privacy research).
 
 📄 Published researcher in medical AI: our paper on MS lesion segmentation evaluation was accepted at [IEEE IJCNN 2026](/publication/2026-03-20-paper-title-number-1).
 
