@@ -56,7 +56,7 @@ collection: portfolio
 @media (max-width: 620px) { .emailai-viz .ea-stats, .emailai-viz .ea-steps { grid-template-columns: repeat(2,1fr); } .emailai-viz .ea-split { grid-template-columns: 1fr; } }
 </style>
 
-[![View Code on GitHub](https://img.shields.io/badge/View%20Code-GitHub-black?logo=github)](https://github.com/AshirRashid/schedule-ai)
+[![View Code on GitHub](https://img.shields.io/badge/View%20Code-GitHub-black?logo=github)](https://github.com/AshirRashid/gmail-rag)
 
 ## The problem
 
