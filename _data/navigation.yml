@@ -1,8 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "/files/Ashir Rashid Resume.pdf"
-    
+    url: /cv/
   - title: "Personal Projects"
     url: /portfolio/
 
