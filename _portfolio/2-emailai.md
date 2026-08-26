@@ -67,7 +67,7 @@ The fix was local semantic search: whole-email BGE embeddings, ChromaDB, no exte
 <div class="emailai-viz">
 <div class="ea-stats">
   <div class="ea-stat"><div class="n good">0.849</div><div class="l">Recall@5 (0.688 for BM25)</div></div>
-  <div class="ea-stat"><div class="n">60.7<span style="font-size:13px">ms</span></div><div class="l">Query latency, p50</div></div>
+  <div class="ea-stat"><div class="n">60.7<span style="font-size:13px">ms</span></div><div class="l">p50 query latency (M1 Pro, CPU)</div></div>
   <div class="ea-stat"><div class="n">13.5<span style="font-size:13px">/s</span></div><div class="l">Ingestion throughput</div></div>
   <div class="ea-stat"><div class="n good">$0</div><div class="l">Marginal cost per query</div></div>
 </div>
@@ -129,7 +129,7 @@ The retrieval quality here is a measured number. An evidence pack in the repo (`
 </div>
 </div>
 
-The gap shows up where semantic search is supposed to help: queries whose wording does not match the correct email's wording (the grant-deadline case above is one). Query latency is p50 60.7ms and p95 67.9ms over 48 samples; ingestion runs at roughly 7.7 to 13.5 emails/sec; because the model runs locally, marginal cost is $0.
+The gap shows up where semantic search is supposed to help: queries whose wording does not match the correct email's wording (the grant-deadline case above is one). Latency is hardware-dependent, so it comes with the machine it was measured on: on a MacBook Pro (M1 Pro, 16GB, CPU only, no GPU), query latency was p50 60.7ms and p95 67.9ms over 48 samples, and ingestion ran at 7.7 to 13.5 emails/sec. The point is less the exact figure than that a local CPU-only pipeline is fast enough for interactive search. Because the model runs locally, marginal cost is $0.
 
 <div class="emailai-viz">
 <div class="ea-split">
