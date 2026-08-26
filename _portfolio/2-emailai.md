@@ -107,7 +107,7 @@ A local ingestion-and-query pipeline: pull inbox email over the Gmail API, embed
 
 ## What it shows
 
-Retrieval quality is measured, not asserted. An evidence pack in the repo (`eval/`) benchmarks the semantic pipeline against a BM25 bag-of-words baseline on a 60-email synthetic corpus with hand-verified ground truth, over 16 queries at k = 5.
+The retrieval quality here is a measured number. An evidence pack in the repo (`eval/`) benchmarks the semantic pipeline against a BM25 bag-of-words baseline on a 60-email synthetic corpus with hand-verified ground truth, over 16 queries at k = 5.
 
 <div class="emailai-viz">
 <div class="ea-cmp">
@@ -136,7 +136,7 @@ The gap shows up where semantic search is supposed to help: queries whose wordin
   <div class="ea-panel">
     <h4>Where it fails <span class="badge warn">documented</span></h4>
     <ul>
-      <li>Most low scores are a <b>benchmark ceiling</b> (12 relevant emails per category, k = 5 caps recall at 0.417), not real misses.</li>
+      <li>Most low scores come from a <b>benchmark ceiling</b>: 12 relevant emails per category and k = 5 caps recall at 0.417, so a perfect retriever still scores low here.</li>
       <li>One genuine slip: a date-bound deadline reminder ranked alongside event invites because the query asked for "a specific date".</li>
       <li>BM25's misses are real: literal keyword mismatch, plus a stray "or" match on short off-topic newsletters.</li>
     </ul>
